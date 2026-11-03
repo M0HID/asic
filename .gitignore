@@ -1,0 +1,17 @@
+# Generated simulation files
+*.vvp
+*.vcd
+*.fst
+/*/*_sim
+/FSM/FSM
+/andOrGate/andOrGate
+/chained-dFlipFlop/chained-dFlipFlop
+/combined/combined
+/counter/counter
+/dFlipFlop/dFlipFlop
+/sampleGen/sampleGen
+/serialReceive/serialReceive
+/shiftRegister/shiftRegister
+
+# Personal learning handoff
+/handoff.md
